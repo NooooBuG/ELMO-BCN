@@ -1,0 +1,2 @@
+SSTBinary
+{'n_epochs': 20, 'batch_size': 64, 'same_bilstm_for_encoder': False, 'bilstm_encoder_n_hidden': 300, 'bilstm_encoder_forget_bias': 1.0, 'bilstm_integrate_n_hidden': 300, 'bilstm_integrate_forget_bias': 1.0, 'dropout_ratio': 0.1, 'output_reduction': 2, 'optimizer': 'adam', 'learning_rate': 0.0001, 'adam_beta1': 0.9, 'adam_beta2': 0.999, 'adam_epsilon': 1e-08}
